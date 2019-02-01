@@ -34,3 +34,4 @@ function removeElementFromBeginningOfArray(array) {
   var arrayNew = array.slice(1)
   return arrayNew
 }
+
